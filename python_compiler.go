@@ -7,10 +7,6 @@ import (
     "bufio"
     "os/signal"
     "syscall"
-    "os/exec"
-    "log"
-    "net/http"
-    "time"
 )
 
 // main function
